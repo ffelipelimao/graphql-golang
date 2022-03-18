@@ -1,3 +1,3 @@
-## Example GraphQL in Go, lib:
+## Example GraphQL in Go:
 
 ```https://gqlgen.com/getting-started/```
